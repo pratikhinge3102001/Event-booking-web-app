@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prati\\OneDrive\\Desktop\\final_cdac_pro\\dotnet api\\EventBookingWebApplication\\EventBookingWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14DF8CEC-6452-48C5-9FC2-E4C2FEC85E0F}|EventBookingWebApplication.csproj|c:\\users\\prati\\onedrive\\desktop\\final_cdac_pro\\dotnet api\\eventbookingwebapplication\\eventbookingwebapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14DF8CEC-6452-48C5-9FC2-E4C2FEC85E0F}|EventBookingWebApplication.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DF8CEC-6452-48C5-9FC2-E4C2FEC85E0F}|EventBookingWebApplication.csproj|c:\\users\\prati\\onedrive\\desktop\\final_cdac_pro\\dotnet api\\eventbookingwebapplication\\eventbookingwebapplication\\eventbookingwebapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{14DF8CEC-6452-48C5-9FC2-E4C2FEC85E0F}|EventBookingWebApplication.csproj|solutionrelative:eventbookingwebapplication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DF8CEC-6452-48C5-9FC2-E4C2FEC85E0F}|EventBookingWebApplication.csproj|c:\\users\\prati\\onedrive\\desktop\\final_cdac_pro\\dotnet api\\eventbookingwebapplication\\eventbookingwebapplication\\models\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DF8CEC-6452-48C5-9FC2-E4C2FEC85E0F}|EventBookingWebApplication.csproj|solutionrelative:models\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DF8CEC-6452-48C5-9FC2-E4C2FEC85E0F}|EventBookingWebApplication.csproj|c:\\users\\prati\\onedrive\\desktop\\final_cdac_pro\\dotnet api\\eventbookingwebapplication\\eventbookingwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DF8CEC-6452-48C5-9FC2-E4C2FEC85E0F}|EventBookingWebApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DF8CEC-6452-48C5-9FC2-E4C2FEC85E0F}|EventBookingWebApplication.csproj|c:\\users\\prati\\onedrive\\desktop\\final_cdac_pro\\dotnet api\\eventbookingwebapplication\\eventbookingwebapplication\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DF8CEC-6452-48C5-9FC2-E4C2FEC85E0F}|EventBookingWebApplication.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DF8CEC-6452-48C5-9FC2-E4C2FEC85E0F}|EventBookingWebApplication.csproj|c:\\users\\prati\\onedrive\\desktop\\final_cdac_pro\\dotnet api\\eventbookingwebapplication\\eventbookingwebapplication\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DF8CEC-6452-48C5-9FC2-E4C2FEC85E0F}|EventBookingWebApplication.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DF8CEC-6452-48C5-9FC2-E4C2FEC85E0F}|EventBookingWebApplication.csproj|c:\\users\\prati\\onedrive\\desktop\\final_cdac_pro\\dotnet api\\eventbookingwebapplication\\eventbookingwebapplication\\controllers\\organiserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DF8CEC-6452-48C5-9FC2-E4C2FEC85E0F}|EventBookingWebApplication.csproj|solutionrelative:controllers\\organiserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\final_cdac_pro\\dotnet api\\EventBookingWebApplication\\EventBookingWebApplication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\final_cdac_pro\\dotnet api\\EventBookingWebApplication\\EventBookingWebApplication\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-26T15:17:39.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventBookingWebApplication.http",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\final_cdac_pro\\dotnet api\\EventBookingWebApplication\\EventBookingWebApplication\\EventBookingWebApplication.http",
+              "RelativeDocumentMoniker": "EventBookingWebApplication.http",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\final_cdac_pro\\dotnet api\\EventBookingWebApplication\\EventBookingWebApplication\\EventBookingWebApplication.http",
+              "RelativeToolTip": "EventBookingWebApplication.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-02-26T15:17:20.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\final_cdac_pro\\dotnet api\\EventBookingWebApplication\\EventBookingWebApplication\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\final_cdac_pro\\dotnet api\\EventBookingWebApplication\\EventBookingWebApplication\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T01:56:08.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\final_cdac_pro\\dotnet api\\EventBookingWebApplication\\EventBookingWebApplication\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\final_cdac_pro\\dotnet api\\EventBookingWebApplication\\EventBookingWebApplication\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T01:56:08.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Attendee.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\final_cdac_pro\\dotnet api\\EventBookingWebApplication\\EventBookingWebApplication\\Models\\Attendee.cs",
+              "RelativeDocumentMoniker": "Models\\Attendee.cs",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\final_cdac_pro\\dotnet api\\EventBookingWebApplication\\EventBookingWebApplication\\Models\\Attendee.cs",
+              "RelativeToolTip": "Models\\Attendee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T01:56:08.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\final_cdac_pro\\dotnet api\\EventBookingWebApplication\\EventBookingWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\final_cdac_pro\\dotnet api\\EventBookingWebApplication\\EventBookingWebApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T01:56:08.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrganisersController.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\final_cdac_pro\\dotnet api\\EventBookingWebApplication\\EventBookingWebApplication\\Controllers\\OrganisersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrganisersController.cs",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\final_cdac_pro\\dotnet api\\EventBookingWebApplication\\EventBookingWebApplication\\Controllers\\OrganisersController.cs",
+              "RelativeToolTip": "Controllers\\OrganisersController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T01:56:08.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
